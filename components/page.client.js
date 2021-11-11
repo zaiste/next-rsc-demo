@@ -1,7 +1,7 @@
 import Header from './header'
 import Meta from './meta'
 
-export default function Page({ children }) {
+export function Page({ children }) {
   return (
     <>
       <style

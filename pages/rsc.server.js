@@ -7,7 +7,7 @@ import Spinner from '../components/spinner'
 import SystemInfo from '../components/server-info.server'
 
 // Client Components
-import Page from '../components/page.client'
+import { Page } from '../components/page.client'
 import Story from '../components/story.client'
 import Footer from '../components/footer.client'
 
